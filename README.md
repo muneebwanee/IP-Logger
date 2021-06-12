@@ -1,6 +1,6 @@
 # Simple ip logger with sending logs to telegram bot!
 
-### At the end of the file, change the token and chat_id
+### At the end of the index.php, change the token and chat_id
 #### in the line:
 
 `[120] $ token = "BotToken"; // Bot token with BotFather`
